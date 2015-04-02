@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/shawnkim/workspace/toopher-python-internal/toopher_authenticator_api'
+let g:netrw_dirhist_2='/Users/shawnkim/workspace/django-tutorial/django_tutorial/django_tutorial/templates/admin'
+let g:netrw_dirhist_3='/Users/shawnkim/workspace/django-tutorial/django_tutorial/django_tutorial'
+let g:netrw_dirhist_4='/Users/shawnkim/workspace/toopher-locust/.git'
+let g:netrw_dirhist_5='/Users/shawnkim/workspace/toopher-status-site/toopher_status_site/status'
+let g:netrw_dirhist_6='/Users/shawnkim/workspace/toopher-status-site/toopher_status_site/static/sass'
+let g:netrw_dirhist_7='/Users/shawnkim/workspace/toopher-status-site/toopher_status_site/static/css'
+let g:netrw_dirhist_8='/Users/shawnkim/workspace/toopher-status-site/toopher_status_site/status/templates'
+let g:netrw_dirhist_9='/Users/shawnkim/workspace/toopher-locust/toopher_locust'
